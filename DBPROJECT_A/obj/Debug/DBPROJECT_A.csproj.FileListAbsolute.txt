@@ -1,0 +1,738 @@
+C:\Users\Mouhammad\Documents\Visual Studio 2017\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.Properties.Resources.resources
+C:\Users\Mouhammad\Documents\Visual Studio 2017\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.csproj.GenerateResource.Cache
+C:\Users\Mouhammad\Documents\Visual Studio 2017\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.csproj.CoreCompileInputs.cache
+C:\Users\Mouhammad\Documents\Visual Studio 2017\DBPROJECT_A\DBPROJECT_A\bin\Debug\DBPROJECT_A.exe.config
+C:\Users\Mouhammad\Documents\Visual Studio 2017\DBPROJECT_A\DBPROJECT_A\bin\Debug\DBPROJECT_A.exe
+C:\Users\Mouhammad\Documents\Visual Studio 2017\DBPROJECT_A\DBPROJECT_A\bin\Debug\DBPROJECT_A.pdb
+C:\Users\Mouhammad\Documents\Visual Studio 2017\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.exe
+C:\Users\Mouhammad\Documents\Visual Studio 2017\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.pdb
+C:\Users\Mouhammad\Documents\Visual Studio 2017\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.Owner_Register.resources
+C:\Users\Mouhammad\Documents\Visual Studio 2017\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.Customer_Register.resources
+C:\Users\Mouhammad\Documents\Visual Studio 2017\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.Form1.resources
+C:\Users\Mouhammad\Documents\Visual Studio 2017\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.Confirm_Cash.resources
+C:\Users\Mouhammad\Documents\Visual Studio 2017\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.Form2.resources
+C:\Users\Mouhammad\Documents\Visual Studio 2017\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.Form3.resources
+C:\Users\Mouhammad\Documents\Visual Studio 2017\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.Form4.resources
+C:\Users\Mouhammad\Documents\Visual Studio 2017\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.INFO.resources
+C:\Users\Mouhammad\Documents\Visual Studio 2017\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.csprojResolveAssemblyReference.cache
+C:\Users\Mouhammad\Documents\Visual Studio 2017\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.Update_Worker.resources
+C:\Users\Mouhammad\Documents\Visual Studio 2017\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.Work.resources
+C:\Users\Mouhammad\Documents\Visual Studio 2017\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.LogIn.resources
+C:\Users\Mouhammad\Documents\Visual Studio 2017\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.Form5.resources
+C:\Users\Mouhammad\Documents\Visual Studio 2017\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.Rate.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\Final1.0\DBPROJECT_A\DBPROJECT_A\bin\Debug\DBPROJECT_A.exe.config
+D:\CMP2021\2nd Year_new\Data Base\Project\Final1.0\DBPROJECT_A\DBPROJECT_A\bin\Debug\DBPROJECT_A.exe
+D:\CMP2021\2nd Year_new\Data Base\Project\Final1.0\DBPROJECT_A\DBPROJECT_A\bin\Debug\DBPROJECT_A.pdb
+D:\CMP2021\2nd Year_new\Data Base\Project\Final1.0\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.csprojAssemblyReference.cache
+D:\CMP2021\2nd Year_new\Data Base\Project\Final1.0\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.Form1.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\Final1.0\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.Confirm_Cash.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\Final1.0\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.Customer_Register.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\Final1.0\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.Form2.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\Final1.0\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.Form3.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\Final1.0\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.Form4.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\Final1.0\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.Form5.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\Final1.0\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.INFO.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\Final1.0\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.LogIn.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\Final1.0\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.Owner_Register.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\Final1.0\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.Properties.Resources.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\Final1.0\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.Rate.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\Final1.0\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.Update_Worker.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\Final1.0\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.Work.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\Final1.0\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.csproj.GenerateResource.cache
+D:\CMP2021\2nd Year_new\Data Base\Project\Final1.0\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.csproj.CoreCompileInputs.cache
+D:\CMP2021\2nd Year_new\Data Base\Project\Final1.0\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.exe
+D:\CMP2021\2nd Year_new\Data Base\Project\Final1.0\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.pdb
+D:\CMP2021\2nd Year_new\Data Base\Project\Final1.0\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.Show_Dependent.resources
+C:\Users\Fatma Ibrahim\Desktop\DBPROJECT_A\DBPROJECT_A\bin\Debug\DBPROJECT_A.exe.config
+C:\Users\Fatma Ibrahim\Desktop\DBPROJECT_A\DBPROJECT_A\bin\Debug\DBPROJECT_A.exe
+C:\Users\Fatma Ibrahim\Desktop\DBPROJECT_A\DBPROJECT_A\bin\Debug\DBPROJECT_A.pdb
+C:\Users\Fatma Ibrahim\Desktop\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.csprojAssemblyReference.cache
+C:\Users\Fatma Ibrahim\Desktop\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.Form1.resources
+C:\Users\Fatma Ibrahim\Desktop\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.Confirm_Cash.resources
+C:\Users\Fatma Ibrahim\Desktop\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.Customer_Register.resources
+C:\Users\Fatma Ibrahim\Desktop\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.Form2.resources
+C:\Users\Fatma Ibrahim\Desktop\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.Form4.resources
+C:\Users\Fatma Ibrahim\Desktop\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.Form5.resources
+C:\Users\Fatma Ibrahim\Desktop\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.INFO.resources
+C:\Users\Fatma Ibrahim\Desktop\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.LogIn.resources
+C:\Users\Fatma Ibrahim\Desktop\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.Owner_Register.resources
+C:\Users\Fatma Ibrahim\Desktop\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.Properties.Resources.resources
+C:\Users\Fatma Ibrahim\Desktop\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.Rate.resources
+C:\Users\Fatma Ibrahim\Desktop\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.Show_Dependent.resources
+C:\Users\Fatma Ibrahim\Desktop\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.Update_Worker.resources
+C:\Users\Fatma Ibrahim\Desktop\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.Work.resources
+C:\Users\Fatma Ibrahim\Desktop\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.csproj.GenerateResource.cache
+C:\Users\Fatma Ibrahim\Desktop\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.csproj.CoreCompileInputs.cache
+C:\Users\Fatma Ibrahim\Desktop\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.exe
+C:\Users\Fatma Ibrahim\Desktop\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.pdb
+C:\Users\Fatma Ibrahim\Desktop\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.MainCustomer.resources
+C:\Users\Fatma Ibrahim\Desktop\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.Orders.resources
+F:\2nd\DBPROJECT_A\DBPROJECT_A\bin\Debug\DBPROJECT_A.exe.config
+F:\2nd\DBPROJECT_A\DBPROJECT_A\bin\Debug\DBPROJECT_A.exe
+F:\2nd\DBPROJECT_A\DBPROJECT_A\bin\Debug\DBPROJECT_A.pdb
+F:\2nd\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.csprojAssemblyReference.cache
+F:\2nd\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.Form1.resources
+F:\2nd\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.Confirm_Cash.resources
+F:\2nd\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.Customer_Register.resources
+F:\2nd\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.EditOrders.resources
+F:\2nd\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.Form2.resources
+F:\2nd\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.Form4.resources
+F:\2nd\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.Form5.resources
+F:\2nd\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.INFO.resources
+F:\2nd\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.LogIn.resources
+F:\2nd\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.MainCustomer.resources
+F:\2nd\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.Orders.resources
+F:\2nd\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.Owner_Register.resources
+F:\2nd\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.Properties.Resources.resources
+F:\2nd\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.Rate.resources
+F:\2nd\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.Show_Dependent.resources
+F:\2nd\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.Update_Worker.resources
+F:\2nd\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.Work.resources
+F:\2nd\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.csproj.GenerateResource.cache
+F:\2nd\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.csproj.CoreCompileInputs.cache
+F:\2nd\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.exe
+F:\2nd\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.pdb
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A\DBPROJECT_A\bin\Debug\DBPROJECT_A.exe.config
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A\DBPROJECT_A\bin\Debug\DBPROJECT_A.exe
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A\DBPROJECT_A\bin\Debug\DBPROJECT_A.pdb
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.Form1.resources
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.Admin.resources
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.Admin_Registration.resources
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.Confirm_Cash.resources
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.Customer_Register.resources
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.EditOrders.resources
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.Form2.resources
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.Form4.resources
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.Form5.resources
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.INFO.resources
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.LogIn.resources
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.MainCustomer.resources
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.Orders.resources
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.Owner_Register.resources
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.Properties.Resources.resources
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.Rate.resources
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.Show_Dependent.resources
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.Update_Worker.resources
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.Work.resources
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.csproj.GenerateResource.Cache
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.csproj.CoreCompileInputs.cache
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.exe
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.pdb
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A\DBPROJECT_A\obj\Debug\DBPROJECT_A.csprojResolveAssemblyReference.cache
+E:\DBPROJECT_A1.1\DBPROJECT_A\bin\Debug\DBPROJECT_A.exe.config
+E:\DBPROJECT_A1.1\DBPROJECT_A\bin\Debug\DBPROJECT_A.exe
+E:\DBPROJECT_A1.1\DBPROJECT_A\bin\Debug\DBPROJECT_A.pdb
+E:\DBPROJECT_A1.1\DBPROJECT_A\obj\Debug\DBPROJECT_A.csprojAssemblyReference.cache
+E:\DBPROJECT_A1.1\DBPROJECT_A\obj\Debug\DBPROJECT_A.Form1.resources
+E:\DBPROJECT_A1.1\DBPROJECT_A\obj\Debug\DBPROJECT_A.Admin.resources
+E:\DBPROJECT_A1.1\DBPROJECT_A\obj\Debug\DBPROJECT_A.Admin_Registration.resources
+E:\DBPROJECT_A1.1\DBPROJECT_A\obj\Debug\DBPROJECT_A.Confirm_Cash.resources
+E:\DBPROJECT_A1.1\DBPROJECT_A\obj\Debug\DBPROJECT_A.Customer_Register.resources
+E:\DBPROJECT_A1.1\DBPROJECT_A\obj\Debug\DBPROJECT_A.EditOrders.resources
+E:\DBPROJECT_A1.1\DBPROJECT_A\obj\Debug\DBPROJECT_A.Form2.resources
+E:\DBPROJECT_A1.1\DBPROJECT_A\obj\Debug\DBPROJECT_A.Form4.resources
+E:\DBPROJECT_A1.1\DBPROJECT_A\obj\Debug\DBPROJECT_A.Form5.resources
+E:\DBPROJECT_A1.1\DBPROJECT_A\obj\Debug\DBPROJECT_A.INFO.resources
+E:\DBPROJECT_A1.1\DBPROJECT_A\obj\Debug\DBPROJECT_A.LogIn.resources
+E:\DBPROJECT_A1.1\DBPROJECT_A\obj\Debug\DBPROJECT_A.MainCustomer.resources
+E:\DBPROJECT_A1.1\DBPROJECT_A\obj\Debug\DBPROJECT_A.Orders.resources
+E:\DBPROJECT_A1.1\DBPROJECT_A\obj\Debug\DBPROJECT_A.Owner_Register.resources
+E:\DBPROJECT_A1.1\DBPROJECT_A\obj\Debug\DBPROJECT_A.Properties.Resources.resources
+E:\DBPROJECT_A1.1\DBPROJECT_A\obj\Debug\DBPROJECT_A.Rate.resources
+E:\DBPROJECT_A1.1\DBPROJECT_A\obj\Debug\DBPROJECT_A.Show_Dependent.resources
+E:\DBPROJECT_A1.1\DBPROJECT_A\obj\Debug\DBPROJECT_A.Update_Worker.resources
+E:\DBPROJECT_A1.1\DBPROJECT_A\obj\Debug\DBPROJECT_A.Work.resources
+E:\DBPROJECT_A1.1\DBPROJECT_A\obj\Debug\DBPROJECT_A.csproj.GenerateResource.cache
+E:\DBPROJECT_A1.1\DBPROJECT_A\obj\Debug\DBPROJECT_A.csproj.CoreCompileInputs.cache
+E:\DBPROJECT_A1.1\DBPROJECT_A\obj\Debug\DBPROJECT_A.exe
+E:\DBPROJECT_A1.1\DBPROJECT_A\obj\Debug\DBPROJECT_A.pdb
+D:\DBPROJECT_A1.11\DBPROJECT_A\bin\Debug\DBPROJECT_A.exe.config
+D:\DBPROJECT_A1.11\DBPROJECT_A\bin\Debug\DBPROJECT_A.exe
+D:\DBPROJECT_A1.11\DBPROJECT_A\bin\Debug\DBPROJECT_A.pdb
+D:\DBPROJECT_A1.11\DBPROJECT_A\obj\Debug\DBPROJECT_A.csprojResolveAssemblyReference.cache
+D:\DBPROJECT_A1.11\DBPROJECT_A\obj\Debug\DBPROJECT_A.Form1.resources
+D:\DBPROJECT_A1.11\DBPROJECT_A\obj\Debug\DBPROJECT_A.Admin.resources
+D:\DBPROJECT_A1.11\DBPROJECT_A\obj\Debug\DBPROJECT_A.Admin_Registration.resources
+D:\DBPROJECT_A1.11\DBPROJECT_A\obj\Debug\DBPROJECT_A.Confirm_Cash.resources
+D:\DBPROJECT_A1.11\DBPROJECT_A\obj\Debug\DBPROJECT_A.Customer_Register.resources
+D:\DBPROJECT_A1.11\DBPROJECT_A\obj\Debug\DBPROJECT_A.EditOrders.resources
+D:\DBPROJECT_A1.11\DBPROJECT_A\obj\Debug\DBPROJECT_A.Form2.resources
+D:\DBPROJECT_A1.11\DBPROJECT_A\obj\Debug\DBPROJECT_A.Form4.resources
+D:\DBPROJECT_A1.11\DBPROJECT_A\obj\Debug\DBPROJECT_A.Form5.resources
+D:\DBPROJECT_A1.11\DBPROJECT_A\obj\Debug\DBPROJECT_A.INFO.resources
+D:\DBPROJECT_A1.11\DBPROJECT_A\obj\Debug\DBPROJECT_A.LogIn.resources
+D:\DBPROJECT_A1.11\DBPROJECT_A\obj\Debug\DBPROJECT_A.MainCustomer.resources
+D:\DBPROJECT_A1.11\DBPROJECT_A\obj\Debug\DBPROJECT_A.Orders.resources
+D:\DBPROJECT_A1.11\DBPROJECT_A\obj\Debug\DBPROJECT_A.Owner_Register.resources
+D:\DBPROJECT_A1.11\DBPROJECT_A\obj\Debug\DBPROJECT_A.Properties.Resources.resources
+D:\DBPROJECT_A1.11\DBPROJECT_A\obj\Debug\DBPROJECT_A.Rate.resources
+D:\DBPROJECT_A1.11\DBPROJECT_A\obj\Debug\DBPROJECT_A.Show_Dependent.resources
+D:\DBPROJECT_A1.11\DBPROJECT_A\obj\Debug\DBPROJECT_A.Update_Worker.resources
+D:\DBPROJECT_A1.11\DBPROJECT_A\obj\Debug\DBPROJECT_A.Work.resources
+D:\DBPROJECT_A1.11\DBPROJECT_A\obj\Debug\DBPROJECT_A.csproj.GenerateResource.Cache
+D:\DBPROJECT_A1.11\DBPROJECT_A\obj\Debug\DBPROJECT_A.csproj.CoreCompileInputs.cache
+D:\DBPROJECT_A1.11\DBPROJECT_A\obj\Debug\DBPROJECT_A.exe
+D:\DBPROJECT_A1.11\DBPROJECT_A\obj\Debug\DBPROJECT_A.pdb
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\bin\Debug\DBPROJECT_A.exe.config
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\bin\Debug\DBPROJECT_A.exe
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\bin\Debug\DBPROJECT_A.pdb
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\obj\Debug\DBPROJECT_A.csprojAssemblyReference.cache
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\obj\Debug\DBPROJECT_A.Form1.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\obj\Debug\DBPROJECT_A.Admin.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\obj\Debug\DBPROJECT_A.Admin_Registration.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\obj\Debug\DBPROJECT_A.Archive.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\obj\Debug\DBPROJECT_A.Confirm_Cash.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\obj\Debug\DBPROJECT_A.Customer_Register.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\obj\Debug\DBPROJECT_A.EditOrders.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\obj\Debug\DBPROJECT_A.Form2.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\obj\Debug\DBPROJECT_A.Form4.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\obj\Debug\DBPROJECT_A.Form5.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\obj\Debug\DBPROJECT_A.INFO.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\obj\Debug\DBPROJECT_A.LogIn.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\obj\Debug\DBPROJECT_A.MainCustomer.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\obj\Debug\DBPROJECT_A.Orders.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\obj\Debug\DBPROJECT_A.Owner_Register.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\obj\Debug\DBPROJECT_A.Properties.Resources.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\obj\Debug\DBPROJECT_A.Rate.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\obj\Debug\DBPROJECT_A.Show_Dependent.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\obj\Debug\DBPROJECT_A.Update_Worker.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\obj\Debug\DBPROJECT_A.Work.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\obj\Debug\DBPROJECT_A.csproj.GenerateResource.cache
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\obj\Debug\DBPROJECT_A.csproj.CoreCompileInputs.cache
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\obj\Debug\DBPROJECT_A.exe
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\obj\Debug\DBPROJECT_A.pdb
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\bin\Debug\EnvDTE.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\bin\Debug\stdole.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\bin\Debug\Microsoft.MSXML.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.xml
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\obj\Debug\DBPROJECT_A.csproj.CopyComplete
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\obj\Debug\DBPROJECT_A.ADD_Worker.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\obj\Debug\DBPROJECT_A.Owner.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\final1.5\DBPROJECT_A1.11\DBPROJECT_A\obj\Debug\DBPROJECT_A.Delete_Worker.resources
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\bin\Debug\DBPROJECT_A.exe.config
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\bin\Debug\DBPROJECT_A.exe
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\bin\Debug\DBPROJECT_A.pdb
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\bin\Debug\EnvDTE.dll
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\bin\Debug\stdole.dll
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\obj\Debug\DBPROJECT_A.csprojResolveAssemblyReference.cache
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\obj\Debug\DBPROJECT_A.Form1.resources
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\obj\Debug\DBPROJECT_A.ADD_Worker.resources
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\obj\Debug\DBPROJECT_A.Admin.resources
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\obj\Debug\DBPROJECT_A.Admin_Registration.resources
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\obj\Debug\DBPROJECT_A.Archive.resources
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\obj\Debug\DBPROJECT_A.Confirm_Cash.resources
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\obj\Debug\DBPROJECT_A.Customer_Register.resources
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\obj\Debug\DBPROJECT_A.Delete_Worker.resources
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\obj\Debug\DBPROJECT_A.EditOrders.resources
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\obj\Debug\DBPROJECT_A.Form2.resources
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\obj\Debug\DBPROJECT_A.Form4.resources
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\obj\Debug\DBPROJECT_A.Form5.resources
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\obj\Debug\DBPROJECT_A.INFO.resources
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\obj\Debug\DBPROJECT_A.LogIn.resources
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\obj\Debug\DBPROJECT_A.MainCustomer.resources
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\obj\Debug\DBPROJECT_A.Orders.resources
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\obj\Debug\DBPROJECT_A.Owner.resources
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\obj\Debug\DBPROJECT_A.Owner_Register.resources
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\obj\Debug\DBPROJECT_A.Properties.Resources.resources
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\obj\Debug\DBPROJECT_A.Rate.resources
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\obj\Debug\DBPROJECT_A.Show_Dependent.resources
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\obj\Debug\DBPROJECT_A.Update_Worker.resources
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\obj\Debug\DBPROJECT_A.Work.resources
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\obj\Debug\DBPROJECT_A.csproj.GenerateResource.Cache
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\obj\Debug\DBPROJECT_A.csproj.CoreCompileInputs.cache
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\obj\Debug\DBPROJECT_A.exe
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\obj\Debug\DBPROJECT_A.pdb
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\obj\Debug\DBPROJECT_A.Insert_Garage.resources
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\obj\Debug\DBPROJECT_A.Garage_Delete.resources
+C:\Users\Mouhammad\Downloads\Compressed\DBPROJECT_A1.1155\DBPROJECT_A\obj\Debug\DBPROJECT_A.AdminReport.resources
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\bin\Debug\DBPROJECT_A.exe.config
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\bin\Debug\DBPROJECT_A.exe
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\bin\Debug\DBPROJECT_A.pdb
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\bin\Debug\EnvDTE.dll
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\bin\Debug\stdole.dll
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\obj\Debug\DBPROJECT_A.csprojResolveAssemblyReference.cache
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\obj\Debug\DBPROJECT_A.Form1.resources
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\obj\Debug\DBPROJECT_A.ADD_Worker.resources
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\obj\Debug\DBPROJECT_A.Admin.resources
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\obj\Debug\DBPROJECT_A.AdminReport.resources
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\obj\Debug\DBPROJECT_A.Admin_Registration.resources
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\obj\Debug\DBPROJECT_A.Archive.resources
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\obj\Debug\DBPROJECT_A.Confirm_Cash.resources
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\obj\Debug\DBPROJECT_A.Customer_Register.resources
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\obj\Debug\DBPROJECT_A.Delete_Worker.resources
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\obj\Debug\DBPROJECT_A.EditOrders.resources
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\obj\Debug\DBPROJECT_A.Form2.resources
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\obj\Debug\DBPROJECT_A.Form4.resources
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\obj\Debug\DBPROJECT_A.Form5.resources
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\obj\Debug\DBPROJECT_A.Garage_Delete.resources
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\obj\Debug\DBPROJECT_A.INFO.resources
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\obj\Debug\DBPROJECT_A.Insert_Garage.resources
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\obj\Debug\DBPROJECT_A.LogIn.resources
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\obj\Debug\DBPROJECT_A.MainCustomer.resources
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\obj\Debug\DBPROJECT_A.Orders.resources
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\obj\Debug\DBPROJECT_A.Owner.resources
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\obj\Debug\DBPROJECT_A.Owner_Register.resources
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\obj\Debug\DBPROJECT_A.Properties.Resources.resources
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\obj\Debug\DBPROJECT_A.Rate.resources
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\obj\Debug\DBPROJECT_A.Show_Dependent.resources
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\obj\Debug\DBPROJECT_A.Update_Worker.resources
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\obj\Debug\DBPROJECT_A.Work.resources
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\obj\Debug\DBPROJECT_A.csproj.GenerateResource.Cache
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\obj\Debug\DBPROJECT_A.csproj.CoreCompileInputs.cache
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\obj\Debug\DBPROJECT_A.exe
+C:\Users\Mouhammad\Downloads\Compressed\WaleedFinal\DBPROJECT_A\obj\Debug\DBPROJECT_A.pdb
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\obj\Debug\DBPROJECT_A.csprojAssemblyReference.cache
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\obj\Debug\DBPROJECT_A.Form1.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\obj\Debug\DBPROJECT_A.ADD_Worker.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\obj\Debug\DBPROJECT_A.Admin.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\obj\Debug\DBPROJECT_A.AdminReport.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\obj\Debug\DBPROJECT_A.Admin_Registration.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\obj\Debug\DBPROJECT_A.Archive.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\obj\Debug\DBPROJECT_A.Confirm_Cash.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\obj\Debug\DBPROJECT_A.Customer_Register.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\obj\Debug\DBPROJECT_A.Delete_Worker.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\obj\Debug\DBPROJECT_A.EditOrders.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\obj\Debug\DBPROJECT_A.Form2.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\obj\Debug\DBPROJECT_A.Form4.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\obj\Debug\DBPROJECT_A.Form5.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\obj\Debug\DBPROJECT_A.Garage_Delete.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\obj\Debug\DBPROJECT_A.INFO.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\obj\Debug\DBPROJECT_A.Insert_Garage.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\obj\Debug\DBPROJECT_A.LogIn.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\obj\Debug\DBPROJECT_A.MainCustomer.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\obj\Debug\DBPROJECT_A.Orders.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\obj\Debug\DBPROJECT_A.Owner.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\obj\Debug\DBPROJECT_A.Owner_Register.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\obj\Debug\DBPROJECT_A.Properties.Resources.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\obj\Debug\DBPROJECT_A.Rate.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\obj\Debug\DBPROJECT_A.Show_Dependent.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\obj\Debug\DBPROJECT_A.Update_Worker.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\obj\Debug\DBPROJECT_A.Work.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\obj\Debug\DBPROJECT_A.csproj.GenerateResource.cache
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\obj\Debug\DBPROJECT_A.csproj.CoreCompileInputs.cache
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\obj\Debug\DBPROJECT_A.exe
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\obj\Debug\DBPROJECT_A.pdb
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\bin\Debug\DBPROJECT_A.exe.config
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\bin\Debug\DBPROJECT_A.exe
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\bin\Debug\DBPROJECT_A.pdb
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\bin\Debug\EnvDTE.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\bin\Debug\stdole.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\bin\Debug\Microsoft.MSXML.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.xml
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2\DBPROJECT_A\obj\Debug\DBPROJECT_A.csproj.CopyComplete
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\DBPROJECT_A.exe.config
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\DBPROJECT_A.exe
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\DBPROJECT_A.pdb
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\EnvDTE.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\stdole.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\Microsoft.MSXML.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.xml
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\obj\Debug\DBPROJECT_A.csprojAssemblyReference.cache
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\obj\Debug\DBPROJECT_A.Form1.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\obj\Debug\DBPROJECT_A.ADD_Worker.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\obj\Debug\DBPROJECT_A.Admin.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\obj\Debug\DBPROJECT_A.AdminReport.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\obj\Debug\DBPROJECT_A.Admin_Registration.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\obj\Debug\DBPROJECT_A.Archive.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\obj\Debug\DBPROJECT_A.Confirm_Cash.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\obj\Debug\DBPROJECT_A.Customer_Register.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\obj\Debug\DBPROJECT_A.Delete_Worker.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\obj\Debug\DBPROJECT_A.EditOrders.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\obj\Debug\DBPROJECT_A.Form2.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\obj\Debug\DBPROJECT_A.Form4.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\obj\Debug\DBPROJECT_A.Form5.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\obj\Debug\DBPROJECT_A.Garage_Delete.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\obj\Debug\DBPROJECT_A.INFO.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\obj\Debug\DBPROJECT_A.Insert_Garage.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\obj\Debug\DBPROJECT_A.LogIn.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\obj\Debug\DBPROJECT_A.MainCustomer.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\obj\Debug\DBPROJECT_A.Orders.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\obj\Debug\DBPROJECT_A.Owner.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\obj\Debug\DBPROJECT_A.Owner_Register.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\obj\Debug\DBPROJECT_A.Properties.Resources.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\obj\Debug\DBPROJECT_A.Rate.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\obj\Debug\DBPROJECT_A.Show_Dependent.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\obj\Debug\DBPROJECT_A.Update_Worker.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\obj\Debug\DBPROJECT_A.Work.resources
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\obj\Debug\DBPROJECT_A.csproj.GenerateResource.cache
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\obj\Debug\DBPROJECT_A.csproj.CoreCompileInputs.cache
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\obj\Debug\DBPROJECT_A.csproj.CopyComplete
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\obj\Debug\DBPROJECT_A.exe
+D:\CMP2021\2nd Year_new\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\obj\Debug\DBPROJECT_A.pdb
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\DBPROJECT_A.exe.config
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\DBPROJECT_A.exe
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\DBPROJECT_A.pdb
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\EnvDTE.dll
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\stdole.dll
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\Microsoft.MSXML.dll
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.xml
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\obj\Debug\DBPROJECT_A.csprojAssemblyReference.cache
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\obj\Debug\DBPROJECT_A.Form1.resources
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\obj\Debug\DBPROJECT_A.ADD_Worker.resources
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\obj\Debug\DBPROJECT_A.Admin.resources
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\obj\Debug\DBPROJECT_A.AdminReport.resources
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\obj\Debug\DBPROJECT_A.Admin_Registration.resources
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\obj\Debug\DBPROJECT_A.Archive.resources
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\obj\Debug\DBPROJECT_A.Confirm_Cash.resources
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\obj\Debug\DBPROJECT_A.Customer_Register.resources
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\obj\Debug\DBPROJECT_A.Delete_Worker.resources
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\obj\Debug\DBPROJECT_A.EditOrders.resources
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\obj\Debug\DBPROJECT_A.Form2.resources
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\obj\Debug\DBPROJECT_A.Form4.resources
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\obj\Debug\DBPROJECT_A.Form5.resources
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\obj\Debug\DBPROJECT_A.Garage_Delete.resources
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\obj\Debug\DBPROJECT_A.INFO.resources
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\obj\Debug\DBPROJECT_A.Insert_Garage.resources
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\obj\Debug\DBPROJECT_A.LogIn.resources
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\obj\Debug\DBPROJECT_A.MainCustomer.resources
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\obj\Debug\DBPROJECT_A.Orders.resources
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\obj\Debug\DBPROJECT_A.Owner.resources
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\obj\Debug\DBPROJECT_A.Owner_Register.resources
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\obj\Debug\DBPROJECT_A.Properties.Resources.resources
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\obj\Debug\DBPROJECT_A.Rate.resources
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\obj\Debug\DBPROJECT_A.Show_Dependent.resources
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\obj\Debug\DBPROJECT_A.Update_Worker.resources
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\obj\Debug\DBPROJECT_A.Work.resources
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\obj\Debug\DBPROJECT_A.csproj.GenerateResource.cache
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\obj\Debug\DBPROJECT_A.csproj.CoreCompileInputs.cache
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\obj\Debug\DBPROJECT_A.csproj.CopyComplete
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\obj\Debug\DBPROJECT_A.exe
+D:\CMP2021\2nd Year_new\TERM ONE\Data Base\Project\WaleedFinal2 - Copy\DBPROJECT_A\obj\Debug\DBPROJECT_A.pdb
